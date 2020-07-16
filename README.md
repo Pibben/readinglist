@@ -6,8 +6,9 @@ A list of interesting books for programmers (and others). Not about programming 
 * [Tech documentary](#Tech-documentary)
 * [Misc documentary](#Misc-documentary)
 * [Humor](#Humor)
+* [Math](#Math)
 * [Economics](#Economics)
-* [Psycology](#Psycology)
+* [Psychology](#Psychology)
 * [Bibliography](#Bibliography)
 
 ## Computing
