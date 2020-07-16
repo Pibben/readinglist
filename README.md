@@ -2,7 +2,13 @@
 
 A list of interesting books for programmers (and others). Not about programming per se, but related subjects to expand your horizons. Please make a Pull Request or create an issue in the issue tracker if you want do make an addition to the list.
 
-[Tech documentary](#Tech-documentary)
+* [Computing](#Computing)
+* [Tech documentary](#Tech-documentary)
+* [Misc documentary](#Misc-documentary)
+* [Humor](#Humor)
+* [Economics](#Economics)
+* [Psycology](#Psycology)
+* [Bibliography](#Bibliography)
 
 ## Computing
 
@@ -156,7 +162,7 @@ No identifying marks were visible on the submarine or the few artifacts brought 
 > Rhodes tells, for the first time, in rich human, political and scientific detail, the complete story of how the bomb was developed, from the turn-of-the-century discovery of the vast energy locked inside the atom to the dropping of the first bombs on Japan. 128 photos.
 
 
-## Misc documentaries
+## Misc documentary
 
 ### Chernobyl 01.23.40 - Andrew Leatherbarrow
 ![](https://images-na.ssl-images-amazon.com/images/I/41yDQkBXsmL._SX331_BO1,204,203,200_.jpg)
@@ -242,7 +248,7 @@ No identifying marks were visible on the submarine or the few artifacts brought 
 
 > Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does—and how that affects every aspect of life. He examines the three elements of true motivation—autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.
 
-## Bibliographies
+## Bibliography
 
 
 ### Alan Turing - Andrew Hodges
